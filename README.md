@@ -20,15 +20,15 @@ Les végétaux produisent des organes de réserves (c'est le cas de la pomme de 
 
 ![](https://github.com/Svt-lim/Seconde-MO3/blob/master/docb.jpg)
 
-```html
 <details>
-  <summary>Coups de pouces</summary>
- <ul>
-     <li>le tube digestif produit et libère des enzymes</li>
-  </ul> 
+  <summary>Coups de pouce</summary>
+Le tube digestif produit et libère des enzymes comme l'amylase salivaire.
 </details>
-```
 
-### 2°)Decrivez les flux de matières et d'énergie dans l'écosysteme représenté:
+### 2°)Décrivez les flux de matières et d'énergie dans écosystème représenté:
 
 ![](https://github.com/Svt-lim/Seconde-MO3/blob/master/docc.jpg)
+
+### BILAN :
+
+![](https://github.com/Svt-lim/Seconde-MO3/blob/master/bilan.jpg)
